@@ -1,0 +1,1137 @@
+id_toko,nama_toko,kategori,latitude,longitude,deskripsi,url_image,rerata_rating,jumlah_rating
+1,Syafliar,warung internet,-6.264001,106.866062,,,1.1,41
+2,Eka Hasanudin,pakaian,-6.207925,106.792732,,,3.9,49
+3,Sri Sunarti,buah dan sayur,-6.221192,106.838783,,,4.7,31
+4,Uneh Suryana,makanan,-6.256442,106.761509,,,4.3,23
+5,Mimi,warung internet,-6.207925,106.792787,,,3.8,6
+6,Arni,minuman,-6.350253,106.89275,,,1.5,28
+7,Fitri Irmayani,warung internet,-6.350253,106.892799,,,1.9,34
+8,Suwandi,warung tegal,-6.221192,106.838783,,,0.9,49
+9,Mayatul Zamzamiya,listrik,6.267781,106.869263,,,1.0,10
+10,Sujiati,pangkas rambut,-6.350253,106.89296,,,1.6,2
+11,Agus,sepatu,-6.256442,106.761509,,,0.2,9
+12,Nuridawati,warung kopi,-6.350253,106.892864,,,1.0,12
+13,Sunaryo,makanan,-6.207925,106.792858,,,1.1,37
+14,Naim,aksesoris,-6.307332,10.864971,,,4.4,44
+15,Dede Saepulloh,warung,-6.256442,106.761509,,,3.0,44
+16,Sularto,warung internet,-6.207925,106.792854,,,3.1,17
+17,Widarto,perabotan,-6.221192,106.838783,,,0.9,31
+18,Tutun Sumiati,emas,-6.350253,106.892972,,,2.4,40
+19,Wahidin,warung internet,-6.256442,106.761509,,,2.9,37
+20,Erma,warung,-6.256442,106.761509,,,0.6,14
+21,Nita Susita,warung internet,-6.350253,106.89301,,,3.5,44
+22,Sulasmi,listrik,-6.221192,106.838783,,,3.9,8
+23,Achmad Thohir Rozy,makanan,-6.350253,106.892747,,,2.6,26
+24,Ali Sodikin,plastik,-6.350253,106.89302,,,4.8,25
+25,Gusniati,daging,-6.350253,106.8928,,,3.0,13
+26,Ruli Astuti,minuman,-6.350253,106.892888,,,0.2,32
+27,Iryanah,plastik,-6.207925,106.792756,,,2.9,13
+28,Supartono,daging,-6.350253,106.892956,,,2.0,1
+29,Gusnindar,perhiasan,-6.264001,106.865995,,,2.1,40
+30,Anhar,emas,-6.256442,106.761509,,,0.7,7
+31,Jemi Manopo,perhiasan,-6.207925,106.792762,,,2.8,14
+32,Sriyanto,jamu,-6.350253,106.892941,,,4.6,35
+33,Septian Saputra,sepatu,-6.256442,106.761509,,,2.8,0
+34,Hj. Tariyah,perabotan,-6.207925,106.79275,,,0.4,20
+35,Slamet Widodo,beras,-6.256442,106.761509,,,3.2,11
+36,K A R S I H,koran dan majalah,-6.264001,106.866039,,,2.9,13
+37,Minayah Aryanti,pangkas rambut,-6.256442,106.761509,,,2.8,48
+38,Osner Parhusip,makanan,-6.264001,106.866046,,,1.3,5
+39,Tumirah,makanan,-6.256442,106.761509,,,0.8,6
+40,Riska Clara,aksesoris,-6.350253,106.892885,,,1.4,20
+41,Edward.S,warung tegal,-6.264001,106.866,,,1.6,29
+42,Supiyah,kunci,-6.221192,106.838783,,,1.2,33
+43,Aisyah,plastik,-6.264001,106.866071,,,3.0,10
+44,Muntoha,emas,-6.256442,106.761509,,,1.1,18
+45,Mad Isa,perabotan,-6.350253,106.89285,,,4.0,2
+46,Tukiyem,emas,-6.207925,106.792883,,,1.4,27
+47,Endah Yulikurniawati,elektronik,-6.256442,106.761509,,,0.6,34
+48,Sarimin,penjahit,6.267781,106.869239,,,3.9,19
+49,H. Rusdi,pulsa,-6.307332,10.864972,,,3.3,24
+50,Namin,penjahit,-6.350253,106.892871,,,0.4,12
+51,Subadri,perhiasan,-6.152019,106.729414,,,4.8,43
+52,Yurnalis,warung,-6.264001,106.866052,,,2.2,19
+53,Sutrisno,warung,-6.207925,106.792871,,,3.8,12
+54,Darwinsyah,listrik,-6.307332,10.864992,,,3.1,29
+55,Abd.Rahman,daging,-6.256442,106.761509,,,2.1,2
+56,Misdi,minuman,6.267781,106.869221,,,3.5,35
+57,Kadim,aksesoris,-6.152019,106.729388,,,1.6,36
+58,Supriyanto,penjahit,-6.350253,106.892926,,,4.6,12
+59,Mujiyo,daging,-6.256442,106.761509,,,0.5,34
+60,Suhadi,koran dan majalah,-6.221192,106.838783,,,1.2,20
+61,Rahmat,warung kopi,-6.207925,106.792812,,,0.6,49
+62,Eka Retno Maryani,koran dan majalah,-6.350253,106.892795,,,2.3,34
+63,Anengsih,pakaian,-6.350253,106.89273,,,0.5,26
+64,Linda Susita,jamu,-6.264001,106.866002,,,1.3,33
+65,Krisityanti,kue,6.267781,106.869232,,,4.0,32
+66,Palung,warung tegal,-6.152019,106.729413,,,2.9,35
+67,Mamah,minuman,-6.207925,106.79278,,,1.6,18
+68,Ary Sukardi,daging,-6.256442,106.761509,,,4.2,3
+69,Rifai Rasban,warung tegal,-6.350253,106.8929,,,4.9,23
+70,Danuri,plastik,-6.350253,106.892774,,,4.3,22
+71,Deti Herlina,penjahit,-6.350253,106.893015,,,1.8,16
+72,Rosmawati,jamu,-6.256442,106.761509,,,0.2,0
+73,Anwar,makanan,-6.221192,106.838783,,,0.1,47
+74,Agus Hidayat,pangkas rambut,6.267781,106.86924,,,4.8,5
+75,Surahma,buah dan sayur,-6.152019,106.729387,,,0.3,1
+76,Supardi,obat,-6.256442,106.761509,,,2.9,23
+77,Sutaryo,pulsa,-6.221192,106.838783,,,4.3,4
+78,Minatin,warung internet,-6.350253,106.892854,,,4.3,44
+79,Nuraini,aksesoris,-6.256442,106.761509,,,4.8,29
+80,Hadi Ma'Ruf,jam tangan,-6.256442,106.761509,,,2.1,35
+81,Holiyah,kue,-6.350253,106.892815,,,2.2,14
+82,Rina Kustiani,daging,-6.221192,106.838783,,,0.1,26
+83,Yayat Hidayat,beras,-6.207925,106.792901,,,3.6,6
+84,Syafniar,elektronik,-6.264001,106.866037,,,1.9,2
+85,Nur Handayani,penjahit,-6.350253,106.892873,,,0.6,36
+86,Harjal Faujal,galon,-6.350253,106.892807,,,1.0,35
+87,Wendhi Bimantara,makanan,-6.350253,106.892983,,,4.8,0
+88,Dwi Setyoningsih,minuman,-6.350253,106.892763,,,0.3,32
+89,Saida Tam[Pubolon,pulsa,-6.264001,106.866012,,,1.6,46
+90,Nurnaningsih,plastik,-6.256442,106.761509,,,1.7,25
+91,Mugi Yanti,penjahit,-6.350253,106.892859,,,2.1,22
+92,Sri Sumarni,pulsa,-6.350253,106.892911,,,1.8,28
+93,Muhayar,perabotan,-6.207925,106.792791,,,2.8,49
+94,Cicih Hindun,kue,-6.350253,106.892759,,,0.4,30
+95,Riesta Vidia,buah dan sayur,-6.256442,106.761509,,,2.7,20
+96,Dedi,elektronik,-6.256442,106.761509,,,3.9,28
+97,Satori,emas,-6.350253,106.893021,,,0.4,7
+98,Yahya,obat,-6.256442,106.761509,,,0.5,15
+99,Eti Supartika,daging,-6.207925,106.792739,,,3.0,1
+100,Sumiyati,elektronik,-6.221192,106.838783,,,3.1,43
+101,Rahmat Kusnadi,koran dan majalah,-6.350253,106.893023,,,3.7,2
+102,Rudi,daging,-6.207925,106.792819,,,1.0,2
+103,Nurmansyah,penjahit,-6.350253,106.892863,,,1.8,49
+104,Suwarti,kue,-6.256442,106.761509,,,0.5,21
+105,Mahwiyah,makanan,-6.256442,106.761509,,,0.6,40
+106,Rusman B Hodri,warung internet,6.267781,106.869211,,,0.8,24
+107,Ernawati,penjahit,-6.307332,10.865005,,,2.4,44
+108,Slamet Pandjaitan,aksesoris,-6.350253,106.892927,,,1.8,22
+109,S. Tarus Sipayung,pakaian,-6.207925,106.79282,,,0.9,32
+110,Ali Abidin,beras,-6.207925,106.79271,,,1.9,18
+111,Mubaedah Bt Wakhid,kue,-6.256442,106.761509,,,2.6,20
+112,Nurjanna Tinaim,elektronik,-6.256442,106.761509,,,4.3,7
+113,Yati Sumiati,warung tegal,-6.256442,106.761509,,,0.5,48
+114,Suwarni,makanan,-6.264001,106.866007,,,0.9,27
+115,Agus Imam Suswanto,buah dan sayur,-6.350253,106.893022,,,4.1,6
+116,Susiyanti,warung internet,-6.207925,106.79287,,,4.4,27
+117,Erynaldi,elektronik,-6.256442,106.761509,,,3.2,39
+118,Suyadi,pangkas rambut,-6.221192,106.838783,,,4.6,8
+119,Safinah,jam tangan,-6.350253,106.892919,,,4.2,44
+120,Sadiyem,plastik,-6.207925,106.792821,,,2.3,41
+121,Umiati,makanan,-6.350253,106.89298,,,2.9,12
+122,Syafey Maarif,perhiasan,-6.264001,106.866057,,,4.7,25
+123,M. Yusuf,galon,6.267781,106.869241,,,4.2,39
+124,Denny Manalu,pakaian,-6.264001,106.866036,,,1.2,30
+125,Santi Hati,aksesoris,-6.350253,106.892936,,,4.6,45
+126,Tonde Bt Naman,plastik,-6.350253,106.892969,,,3.9,1
+127,Ngatinem,penjahit,-6.256442,106.761509,,,0.5,35
+128,Prayitno,buah dan sayur,-6.256442,106.761509,,,4.0,1
+129,Salmi,warung,-6.207925,106.792825,,,3.2,34
+130,Hairani Indah,koran dan majalah,-6.256442,106.761509,,,0.5,20
+131,Tasroni,elektronik,-6.264001,106.866009,,,3.3,8
+132,Suyono,penjahit,-6.221192,106.838783,,,3.0,17
+133,Andina Ika Putri,beras,-6.350253,106.892735,,,2.2,22
+134,Martias,penjahit,-6.307332,10.864996,,,4.6,2
+135,Elli Hariani,warung tegal,-6.256442,106.761509,,,2.8,32
+136,"Samiyem , Hj",daging,-6.221192,106.838783,,,4.5,9
+137,Lista Sitohang,pulsa,-6.221192,106.838783,,,1.4,40
+138,Darti,warung internet,-6.221192,106.838783,,,4.6,7
+139,Suciati,beras,-6.207925,106.792841,,,4.5,7
+140,Sadu,listrik,-6.207925,106.792822,,,3.1,36
+141,Deden Yudianto,sepatu,-6.350253,106.892782,,,0.8,41
+142,Darmiasih,emas,-6.221192,106.838783,,,2.2,29
+143,Sulastri,pangkas rambut,-6.350253,106.892924,,,3.8,37
+144,Maslahah,pangkas rambut,-6.256442,106.761509,,,1.6,42
+145,Yosua Wijaya,koran dan majalah,-6.307332,10.865001,,,4.8,28
+146,Nurul Fatimah,jamu,-6.256442,106.761509,,,4.8,30
+147,Taruni,obat,-6.207925,106.792876,,,3.7,42
+148,Chabibur Rohman,minuman,-6.350253,106.89276,,,4.6,30
+149,Syafrizal,kue,-6.350253,106.89292,,,0.0,2
+150,Ildaneli,perabotan,-6.350253,106.892818,,,1.2,49
+151,Achmad Yasin,koran dan majalah,-6.256442,106.761509,,,0.1,41
+152,Abu Narman,beras,6.267781,106.86925,,,2.9,9
+153,Yuni Setiawati,daging,-6.256442,106.761509,,,0.7,11
+154,Sulastri,listrik,6.267781,106.869255,,,3.5,49
+155,Rochmat Sugiarto,kunci,-6.307332,10.864963,,,2.6,44
+156,Diah Erlinawati,kue,-6.307332,10.864967,,,4.1,36
+157,Uu,jamu,-6.207925,106.79289,,,4.3,34
+158,Karto Siagian,listrik,-6.350253,106.892829,,,1.3,32
+159,Suroto,elektronik,-6.221192,106.838783,,,0.7,7
+160,Drs. Adil Aziz,pakaian,-6.350253,106.892764,,,4.5,12
+161,Sugondo,jamu,-6.264001,106.86604,,,0.1,17
+162,Juwita Tampubolon,plastik,-6.221192,106.838783,,,3.7,19
+163,Lasmi,pangkas rambut,-6.264001,106.866064,,,3.4,32
+164,Mahmudin,koran dan majalah,-6.264001,106.866033,,,3.4,41
+165,Rohati,koran dan majalah,-6.256442,106.761509,,,1.0,24
+166,Bakris M,emas,-6.264001,106.866058,,,0.2,47
+167,Katinah,plastik,-6.207925,106.792771,,,3.3,47
+168,Sholehati,emas,-6.350253,106.892955,,,4.4,13
+169,Yanto,penjahit,-6.152019,106.729411,,,4.9,38
+170,Surasmin,beras,-6.221192,106.838783,,,2.6,16
+171,Nuraini,makanan,-6.221192,106.838783,,,1.8,26
+172,Achmad Zaenudin,penjahit,-6.350253,106.892746,,,2.2,45
+173,Mohamad Soleh Maulana,warung tegal,-6.256442,106.761509,,,4.2,39
+174,Ngadiyem,beras,-6.207925,106.7928,,,0.9,39
+175,Dian Priamsari,elektronik,-6.350253,106.892761,,,0.9,12
+176,Sujilah,kunci,6.267781,106.869231,,,4.4,48
+177,Miftah,kunci,6.267781,106.869242,,,0.8,17
+178,Muhammad Padil,perhiasan,-6.256442,106.761509,,,0.5,30
+179,Kartono,kue,-6.256442,106.761509,,,3.3,49
+180,Hamiyah,minuman,-6.221192,106.838783,,,1.1,34
+181,Idris Kaisan,perhiasan,-6.256442,106.761509,,,1.3,37
+182,Hj. Satri,koran dan majalah,-6.350253,106.892809,,,2.2,40
+183,Abdul Hakim,obat,-6.256442,106.761509,,,4.2,34
+184,Mulwanto,obat,-6.350253,106.892851,,,2.8,29
+185,Siti Aisah,jamu,-6.350253,106.892949,,,0.2,10
+186,Sukarjo,plastik,-6.350253,106.892907,,,0.1,22
+187,Nesih,warung internet,-6.350253,106.892878,,,4.4,22
+188,Lili Bin Rashami,warung,-6.256442,106.761509,,,0.7,10
+189,Hasan Bakir,jamu,-6.256442,106.761509,,,3.3,1
+190,Rutinah,emas,-6.221192,106.838783,,,2.9,26
+191,Eko Warka,daging,-6.350253,106.893037,,,0.1,6
+192,Deswati,beras,-6.307332,10.864998,,,3.7,47
+193,Junengsih,pangkas rambut,-6.207925,106.792765,,,0.0,23
+194,Ani Manikem,kunci,-6.264001,106.865988,,,1.0,40
+195,Atjim Bin Parih,obat,-6.350253,106.892749,,,3.8,37
+196,Yeti Utami,listrik,-6.207925,106.792902,,,0.6,31
+197,Sunari,makanan,-6.350253,106.892958,,,4.4,25
+198,Sukamti,warung,-6.207925,106.792849,,,2.3,36
+199,Sulastri,pulsa,-6.350253,106.892944,,,4.7,1
+200,Arum Dewi,makanan,-6.350253,106.892738,,,2.0,15
+201,Kamaliyah Turosida,buah dan sayur,6.267781,106.869262,,,0.9,5
+202,Rodi,beras,-6.207925,106.792815,,,2.3,27
+203,Syafri Deni,pulsa,-6.350253,106.892915,,,2.4,49
+204,Hodni Wanti,aksesoris,-6.350253,106.892814,,,2.8,17
+205,Agus Awaludin,warung,-6.207925,106.792708,,,0.6,31
+206,Rubinah,pulsa,-6.207925,106.792818,,,0.1,40
+207,Windi Hamsyah,aksesoris,-6.207925,106.792898,,,4.1,11
+208,Lesta Lamberta Tampu,koran dan majalah,-6.264001,106.866038,,,2.5,32
+209,M. Sobari,daging,-6.207925,106.792776,,,2.4,41
+210,Wiwik Hidayati,pangkas rambut,-6.256442,106.761509,,,4.0,21
+211,Sujiyem,penjahit,-6.207925,106.792847,,,2.9,5
+212,Tintin Suhertin,warung tegal,-6.350253,106.892976,,,4.0,43
+213,Siti Musripah,plastik,-6.221192,106.838783,,,1.1,6
+214,Carwi Binti Tampi,listrik,-6.221192,106.838783,,,3.0,18
+215,Eyen,perabotan,-6.152019,106.729417,,,3.7,15
+216,Ikhrom,kunci,-6.350253,106.892822,,,1.0,1
+217,Atang,emas,-6.221192,106.838783,,,2.0,38
+218,Muldjono,penjahit,-6.256442,106.761509,,,0.0,20
+219,Parjiyem,beras,6.267781,106.869251,,,2.7,33
+220,Nosa Destworiza,koran dan majalah,-6.256442,106.761509,,,0.1,35
+221,Zulkifli,plastik,-6.350253,106.893002,,,1.5,21
+222,Nimrot Sianturi,jam tangan,-6.256442,106.761509,,,0.3,39
+223,Chaerudin,emas,6.267781,106.869222,,,4.8,40
+224,Hermansyah,listrik,-6.350253,106.892812,,,4.9,34
+225,Petrawati,plastik,-6.256442,106.761509,,,1.6,8
+226,H. Bahran,kunci,6.267781,106.869235,,,4.4,38
+227,Aeha,kunci,-6.207925,106.792707,,,2.5,7
+228,Roni Saputra,minuman,-6.307332,10.864981,,,4.3,34
+229,"Badayong, Sh,Mh",daging,-6.256442,106.761509,,,4.2,39
+230,Sri Mulyani,kue,-6.256442,106.761509,,,2.8,39
+231,Carmanto,warung internet,-6.221192,106.838783,,,2.7,10
+232,Sri Wahyuni,warung internet,-6.221192,106.838783,,,4.5,48
+233,Dewi Martikah,penjahit,-6.350253,106.892775,,,4.7,4
+234,Siti Koiriyah,warung kopi,-6.256442,106.761509,,,1.2,8
+235,Marjuki,kunci,6.267781,106.869213,,,2.6,10
+236,Tini,pulsa,-6.350253,106.892974,,,3.3,19
+237,Amril,daging,-6.350253,106.892737,,,3.7,7
+238,Achmad Saefuri,obat,-6.221192,106.838783,,,4.3,12
+239,Sarfi,buah dan sayur,-6.207925,106.792828,,,4.6,20
+240,Hamdani,koran dan majalah,-6.350253,106.892802,,,3.2,6
+241,Narsi,listrik,6.267781,106.869253,,,3.2,27
+242,Giyem,minuman,-6.207925,106.792741,,,3.1,7
+243,Tri Siningsih,beras,-6.350253,106.89297,,,2.7,25
+244,Eko Trisyono,emas,-6.350253,106.892789,,,2.4,23
+245,Sukarsih,pakaian,-6.350253,106.892953,,,1.6,15
+246,Sulistyo Budi,penjahit,-6.256442,106.761509,,,0.6,7
+247,H. Raharjo,buah dan sayur,-6.207925,106.792743,,,4.9,31
+248,Ningrum,warung kopi,-6.350253,106.892869,,,4.9,36
+249,Tukiyem,plastik,6.267781,106.869226,,,3.7,36
+250,Gusniarti,daging,-6.264001,106.866004,,,4.3,43
+251,Misja,minuman,-6.350253,106.892857,,,0.9,46
+252,Jaka Lena,warung internet,-6.221192,106.838783,,,3.2,18
+253,Maidah,pulsa,-6.256442,106.761509,,,0.1,29
+254,Karsono,galon,-6.221192,106.838783,,,3.9,21
+255,Dwi Supriyanto,buah dan sayur,-6.350253,106.892781,,,3.8,44
+256,Hj. Dwi Atmawati,buah dan sayur,-6.350253,106.892804,,,1.2,2
+257,Eva Adolian. N,buah dan sayur,-6.350253,106.89279,,,4.3,43
+258,Salma,kue,-6.307332,10.865006,,,0.8,9
+259,Holik,plastik,-6.207925,106.792751,,,1.9,7
+260,Sahara,warung internet,-6.307332,10.864985,,,3.2,18
+261,Legiman,kunci,-6.350253,106.892834,,,1.5,35
+262,Karyati,sepatu,-6.207925,106.792769,,,1.8,1
+263,Eka Marsudi,koran dan majalah,-6.256442,106.761509,,,3.2,29
+264,Martinah,pulsa,-6.256442,106.761509,,,2.5,8
+265,Jasmi,kunci,-6.207925,106.792761,,,1.6,23
+266,Mirawati,plastik,-6.350253,106.892856,,,2.7,10
+267,"Kusdianti, Dra",warung tegal,-6.350253,106.893016,,,1.0,32
+268,Martini,galon,-6.207925,106.792781,,,2.1,33
+269,Sujono,listrik,-6.207925,106.792848,,,1.2,26
+270,Nur Aini,aksesoris,-6.350253,106.892877,,,2.3,19
+271,Mulatsih,minuman,-6.207925,106.792793,,,1.5,0
+272,Epan Munawan,koran dan majalah,-6.207925,106.792737,,,1.1,17
+273,Andre Eko Saputro,galon,-6.256442,106.761509,,,1.7,42
+274,Djanatin,warung kopi,-6.256442,106.761509,,,2.8,42
+275,Sri Rejeki,pulsa,-6.221192,106.838783,,,3.5,15
+276,Darsono,warung internet,-6.350253,106.893033,,,0.8,33
+277,Riolan Simamora,pakaian,-6.307332,10.864982,,,2.2,14
+278,Uni Madyuni,listrik,-6.152019,106.72941,,,0.1,38
+279,Hendasani,perabotan,-6.264001,106.866006,,,1.6,4
+280,Rio Harmon,jamu,-6.350253,106.89289,,,3.7,8
+281,Supriyadi,pangkas rambut,-6.207925,106.792865,,,3.5,24
+282,Ira Pembela,jam tangan,-6.221192,106.838783,,,4.1,22
+283,Manah Binti Maman,warung,-6.350253,106.892852,,,3.8,38
+284,Rona Hernela,plastik,-6.350253,106.892887,,,1.5,35
+285,Zakaria,sepatu,-6.350253,106.893004,,,1.2,30
+286,Erni Yusnita,jam tangan,-6.350253,106.892792,,,4.8,30
+287,Kusnara,pangkas rambut,-6.307332,10.864968,,,2.5,10
+288,Cecep Sumantri,koran dan majalah,-6.350253,106.893012,,,4.1,15
+289,Teguh Santoso,buah dan sayur,-6.221192,106.838783,,,3.4,24
+290,Sri Wahyuni,jam tangan,-6.152019,106.729397,,,0.4,38
+291,Subiyanto,pangkas rambut,-6.350253,106.892961,,,1.5,46
+292,Nurhayati,buah dan sayur,-6.264001,106.865982,,,2.8,25
+293,Soemarto,plastik,-6.350253,106.892906,,,2.5,31
+294,Asnawi,jam tangan,-6.256442,106.761509,,,3.2,17
+295,Suparmi,pakaian,-6.256442,106.761509,,,4.8,38
+296,Babas,penjahit,-6.207925,106.792718,,,4.0,38
+297,Miyanto,sepatu,-6.350253,106.892838,,,2.6,28
+298,Irfan Agusyari,koran dan majalah,-6.350253,106.89282,,,3.0,37
+299,Siswadi,perhiasan,-6.350253,106.892951,,,1.6,13
+300,Siswanto,elektronik,-6.350253,106.892965,,,1.6,39
+301,Rina Haryati,makanan,-6.350253,106.892886,,,4.3,26
+302,Parmin,sepatu,-6.221192,106.838783,,,4.4,41
+303,Yanto,warung kopi,-6.350253,106.892993,,,0.6,37
+304,Siti Oemi,warung tegal,-6.256442,106.761509,,,4.8,33
+305,Ropiqoh,obat,-6.350253,106.892896,,,0.9,20
+306,Nurfai,pakaian,-6.152019,106.729383,,,0.9,34
+307,Sutoyo,plastik,-6.256442,106.761509,,,0.0,44
+308,Asep Deni,makanan,-6.307332,10.864986,,,4.5,8
+309,H. Marwi,kunci,-6.207925,106.792742,,,3.2,22
+310,Neli Tiorida Sitanggang,sepatu,-6.207925,106.792799,,,1.8,11
+311,Rina Kustiani,warung,-6.221192,106.838783,,,4.5,40
+312,Kodir,minuman,-6.207925,106.792772,,,4.0,6
+313,Badwi,galon,-6.152019,106.729396,,,3.6,35
+314,Puji Setiati,emas,-6.256442,106.761509,,,3.3,29
+315,Jasril,emas,-6.350253,106.892824,,,4.7,28
+316,Amri Canniago,warung kopi,-6.264001,106.865987,,,3.3,25
+317,Nurjanah,sepatu,-6.350253,106.89287,,,4.2,21
+318,Dedi Putra,penjahit,-6.264001,106.866011,,,3.6,27
+319,Jumadin,listrik,-6.256442,106.761509,,,0.4,29
+320,Nani Suharni,aksesoris,-6.256442,106.761509,,,4.7,20
+321,Yulinda,makanan,-6.264001,106.866028,,,3.2,19
+322,Sunardi,pulsa,-6.350253,106.892943,,,0.5,6
+323,Slamet,minuman,-6.256442,106.761509,,,2.3,12
+324,Marjuki Slamet,pulsa,-6.350253,106.892847,,,1.8,3
+325,Muhamad Nasir,beras,-6.264001,106.866043,,,4.5,36
+326,Arif Hidayat,pakaian,-6.350253,106.892739,,,2.9,9
+327,"Rr. Kusuma Whardani, Sh.",koran dan majalah,-6.350253,106.893011,,,0.2,43
+328,Khoerul Amri,pulsa,-6.350253,106.892828,,,3.9,24
+329,Yuyu,kunci,-6.207925,106.792906,,,2.4,18
+330,Backtiar,plastik,-6.264001,106.866032,,,2.7,29
+331,Atrawi,pangkas rambut,-6.256442,106.761509,,,2.4,47
+332,Sunarti,warung tegal,-6.350253,106.892939,,,0.7,33
+333,Nuraini,plastik,-6.256442,106.761509,,,4.8,7
+334,Dulyani,pakaian,-6.207925,106.79273,,,4.2,38
+335,Tukinem Wiyani,galon,-6.256442,106.761509,,,4.1,30
+336,Lasmi,aksesoris,-6.350253,106.892836,,,3.6,47
+337,Yuyun,kue,-6.350253,106.892996,,,0.6,48
+338,Abdul Ghofur,buah dan sayur,-6.207925,106.792703,,,0.1,42
+339,Sumanto,warung,6.267781,106.869258,,,2.9,32
+340,Een Nuraeni,warung,-6.256442,106.761509,,,1.9,15
+341,Djasril,galon,-6.256442,106.761509,,,1.5,30
+342,Umu Rohmah,elektronik,-6.207925,106.792888,,,1.2,0
+343,Asima Purba,warung internet,-6.307332,10.864976,,,2.4,41
+344,Wilujeng Pangestuti,elektronik,-6.256442,106.761509,,,3.4,43
+345,Kennedy Siregar,plastik,-6.264001,106.866035,,,2.2,32
+346,Nurbaini,obat,-6.264001,106.865989,,,2.1,21
+347,Agus Supriyanto,warung kopi,-6.264001,106.86601,,,2.4,47
+348,Karmani,jam tangan,6.267781,106.869256,,,2.2,26
+349,Slamet Bisri,minuman,-6.256442,106.761509,,,4.7,46
+350,Siti Anifatun,warung kopi,-6.350253,106.893005,,,0.2,35
+351,Elisa Suharjo,listrik,-6.256442,106.761509,,,2.9,42
+352,Dini Suryati,pulsa,-6.350253,106.892769,,,4.1,15
+353,Suharjito,sepatu,-6.256442,106.761509,,,3.1,19
+354,Supriyanto,aksesoris,6.267781,106.869249,,,2.3,14
+355,Abdul Roup,listrik,-6.207925,106.792705,,,4.5,49
+356,Sukarna,plastik,-6.264001,106.866025,,,1.7,5
+357,Nanik,elektronik,-6.307332,10.864969,,,3.5,19
+358,Slamet,pulsa,-6.207925,106.792834,,,0.0,23
+359,Iliadini,kue,-6.350253,106.892823,,,3.6,31
+360,Siti Rohayah,beras,-6.350253,106.892954,,,4.8,42
+361,Sukriyanto,buah dan sayur,-6.207925,106.792852,,,4.8,10
+362,Novie Yanny Yulieta,pakaian,-6.256442,106.761509,,,2.1,32
+363,Ade Sanusi,kunci,-6.256442,106.761509,,,0.5,20
+364,Marzuki Efendi,galon,-6.350253,106.892848,,,3.9,23
+365,Pujo Sarwoto Sarono,aksesoris,-6.221192,106.838783,,,2.3,26
+366,Dade Ahmad Ruhiyat,aksesoris,6.267781,106.869218,,,0.9,4
+367,Safriadi,penjahit,6.267781,106.869223,,,2.6,17
+368,Rokhanah,daging,-6.256442,106.761509,,,0.4,29
+369,Nandang,elektronik,-6.207925,106.792797,,,2.8,45
+370,Sahedi,jamu,6.267781,106.869254,,,2.6,45
+371,Ilyas Bin Sarih,warung kopi,-6.207925,106.792753,,,2.1,22
+372,Amril,kue,-6.350253,106.892734,,,1.3,28
+373,Puji Astuti,kunci,-6.256442,106.761509,,,2.7,12
+374,Sri Rahayu,perhiasan,-6.221192,106.838783,,,4.7,26
+375,Zainudin,jam tangan,-6.152019,106.729378,,,2.7,44
+376,Semi,jam tangan,-6.207925,106.792831,,,2.5,23
+377,Karsih,makanan,-6.207925,106.792767,,,4.3,33
+378,Kastinah,penjahit,-6.207925,106.79277,,,3.9,0
+379,Khodijah,koran dan majalah,-6.256442,106.761509,,,3.0,16
+380,Abdul Ahmad,kue,-6.221192,106.838783,,,0.0,14
+381,Kusnoto,aksesoris,-6.221192,106.838783,,,1.6,26
+382,Fredy,aksesoris,-6.256442,106.761509,,,0.5,16
+383,Siti Aisah,galon,-6.256442,106.761509,,,2.8,22
+384,Ali Mansur,warung internet,6.267781,106.869236,,,1.0,15
+385,H. Syaiful Bahri,jamu,-6.152019,106.729376,,,3.4,2
+386,Wahyono,perabotan,6.267781,106.869217,,,1.5,48
+387,Agus Kusnadi,penjahit,-6.256442,106.761509,,,0.1,24
+388,Syahril,aksesoris,-6.256442,106.761509,,,0.1,37
+389,Surahmi,listrik,-6.264001,106.86602,,,3.2,45
+390,Klargi Santoso,beras,-6.221192,106.838783,,,4.5,30
+391,Enin Samsudin,aksesoris,-6.221192,106.838783,,,1.9,3
+392,Bayu Satria Utama,pulsa,-6.221192,106.838783,,,1.0,22
+393,Nita Astutik,elektronik,-6.307332,10.864978,,,1.9,30
+394,Darwito,kunci,-6.207925,106.792725,,,1.2,48
+395,Naseh,pangkas rambut,-6.221192,106.838783,,,2.4,19
+396,Sisrianto,emas,-6.207925,106.792832,,,0.1,34
+397,Reno Ali,warung kopi,-6.264001,106.866063,,,2.5,16
+398,Seprihardi,penjahit,-6.264001,106.86607,,,2.6,34
+399,Kurnia Putri,listrik,-6.256442,106.761509,,,1.3,22
+400,Mukhafif,pangkas rambut,-6.256442,106.761509,,,3.6,8
+401,Henny Manihuruk,jam tangan,-6.256442,106.761509,,,0.9,40
+402,Heriyanto,sepatu,-6.264001,106.866069,,,2.0,43
+403,Engkin,warung internet,-6.256442,106.761509,,,1.1,49
+404,Junaeni,warung tegal,-6.256442,106.761509,,,0.8,40
+405,Tjutju,kunci,-6.350253,106.892968,,,1.0,2
+406,H. Dalih Somawi,sepatu,-6.350253,106.892813,,,4.6,10
+407,Wawan Hermawan,emas,-6.207925,106.792896,,,1.1,32
+408,Asnah,emas,-6.221192,106.838783,,,3.2,25
+409,Surati,warung,-6.207925,106.792867,,,4.1,23
+410,Supardi,jamu,-6.350253,106.892928,,,4.2,30
+411,Asmah,kunci,-6.256442,106.761509,,,1.4,4
+412,Sukarno,daging,-6.221192,106.838783,,,3.0,38
+413,Iding Saepudin,jam tangan,-6.152019,106.729393,,,3.8,33
+414,Sumanah,warung tegal,-6.207925,106.792855,,,0.4,19
+415,Sukirman,warung kopi,-6.221192,106.838783,,,4.8,5
+416,Enang,koran dan majalah,-6.350253,106.893034,,,3.2,25
+417,Dedi Safitra,elektronik,-6.264001,106.866001,,,0.1,37
+418,Sainah,buah dan sayur,-6.221192,106.838783,,,4.2,10
+419,Romouli Hutahaen,emas,-6.350253,106.892902,,,2.9,0
+420,Juwariyah,makanan,-6.207925,106.792766,,,4.1,1
+421,Muhamad Najir,perhiasan,-6.256442,106.761509,,,0.7,15
+422,Nana,makanan,-6.350253,106.892867,,,3.1,35
+423,Ardiansyah,beras,-6.350253,106.892748,,,3.4,32
+424,Marjuki,perhiasan,-6.256442,106.761509,,,1.2,46
+425,Surati,aksesoris,-6.221192,106.838783,,,1.6,12
+426,Umi Saefatul Azkiyah,warung internet,-6.256442,106.761509,,,3.6,1
+427,Sri Atun,listrik,-6.221192,106.838783,,,1.2,23
+428,Bayu Darmawan,kunci,-6.350253,106.892756,,,4.3,41
+429,Ertja,minuman,-6.152019,106.729398,,,0.1,48
+430,Maryati,beras,-6.207925,106.792782,,,1.2,1
+431,Yatna Supriatna,minuman,-6.350253,106.892999,,,4.9,23
+432,T.Maryana Sinaga,pakaian,-6.264001,106.866027,,,4.5,0
+433,Suarno,plastik,-6.207925,106.792838,,,2.5,37
+434,Ridwan Antoni,listrik,-6.264001,106.866024,,,0.1,5
+435,Sarno,emas,-6.350253,106.892947,,,3.3,41
+436,Suyamti,warung kopi,-6.207925,106.792873,,,3.4,26
+437,Suwarni,warung internet,-6.256442,106.761509,,,0.1,18
+438,Tarni,obat,-6.207925,106.792875,,,0.5,32
+439,Badrudin,pakaian,-6.207925,106.792719,,,1.1,9
+440,Ellis Risnawati,kunci,-6.350253,106.892785,,,3.8,25
+441,Abdul Rohman,beras,-6.350253,106.892741,,,0.4,46
+442,Jejeh Juleha,sepatu,-6.350253,106.893027,,,0.1,25
+443,Anik Rusiati,warung,-6.350253,106.892732,,,4.1,25
+444,H. Olan,listrik,-6.350253,106.892806,,,2.2,22
+445,Fatmawati,warung tegal,-6.256442,106.761509,,,3.6,35
+446,Mimi Hayati,penjahit,-6.350253,106.892844,,,0.6,2
+447,Ahmat Santibi,jam tangan,6.267781,106.869244,,,0.6,11
+448,Sri Dumilah,penjahit,-6.256442,106.761509,,,3.9,29
+449,Harso Suparjo,kue,6.267781,106.869228,,,0.1,9
+450,Wagiman,kue,-6.207925,106.792892,,,1.1,49
+451,Suhertinah,koran dan majalah,-6.350253,106.892933,,,2.5,19
+452,Suprapto,warung internet,-6.207925,106.792864,,,3.1,29
+453,Ari Wibowo,obat,-6.207925,106.792713,,,3.2,7
+454,Darti,perhiasan,-6.221192,106.838783,,,4.0,16
+455,Supatmi,kue,-6.350253,106.892946,,,3.7,46
+456,A M I R ,perhiasan,-6.264001,106.866048,,,2.7,28
+457,Syarifuddin,listrik,-6.264001,106.866041,,,2.1,35
+458,Zulfa Indra,emas,-6.264001,106.866013,,,2.1,16
+459,Mas'Ud,pulsa,-6.221192,106.838783,,,1.7,23
+460,Misnen,jam tangan,-6.221192,106.838783,,,1.0,28
+461,Jakaria,perhiasan,-6.207925,106.792759,,,2.7,48
+462,Surati,koran dan majalah,-6.221192,106.838783,,,3.7,29
+463,Siti Laela Sari,penjahit,-6.350253,106.893017,,,1.9,39
+464,Budiman,jamu,-6.350253,106.892758,,,3.7,21
+465,Nur Asizeh,warung,6.267781,106.869252,,,2.8,35
+466,Shahrial,warung kopi,-6.307332,10.86497,,,2.7,6
+467,Suharsono,jam tangan,-6.350253,106.892952,,,4.6,49
+468,Sefriyanto,elektronik,-6.350253,106.892925,,,2.2,16
+469,Indra Abdul Gani,aksesoris,-6.207925,106.792754,,,4.8,14
+470,Darma Osra Spi.,buah dan sayur,-6.256442,106.761509,,,0.7,9
+471,Dadun Bin Eman,warung tegal,-6.350253,106.892772,,,1.3,35
+472,Edy,penjahit,-6.152019,106.729416,,,1.2,40
+473,Suratmini,pangkas rambut,-6.256442,106.761509,,,2.5,30
+474,Santiningsih,warung kopi,-6.350253,106.892912,,,3.8,15
+475,Kastijah,kunci,-6.256442,106.761509,,,1.1,39
+476,Hosiin,pangkas rambut,-6.350253,106.892817,,,3.6,27
+477,Samukri,pangkas rambut,-6.256442,106.761509,,,4.2,31
+478,Sutardi,pangkas rambut,-6.221192,106.838783,,,3.3,2
+479,Hendri G,beras,-6.221192,106.838783,,,4.1,37
+480,Hasan Nurdin,warung tegal,-6.350253,106.892816,,,3.8,33
+481,Ratna,warung tegal,-6.350253,106.893028,,,4.2,16
+482,Parningotan,daging,-6.307332,10.864965,,,4.1,33
+483,Syaiful Anwar,jamu,-6.221192,106.838783,,,2.1,34
+484,Abdul Wahid,buah dan sayur,-6.207925,106.792706,,,4.1,12
+485,Muryani,minuman,-6.256442,106.761509,,,2.5,22
+486,Mani,buah dan sayur,-6.350253,106.892861,,,1.9,37
+487,Zulkifli,aksesoris,-6.264001,106.866065,,,1.4,21
+488,Mohammad Badar,emas,-6.264001,106.866061,,,4.6,8
+489,Suratno,jamu,-6.207925,106.792869,,,3.4,30
+490,Wati Perawati,penjahit,-6.264001,106.866016,,,4.3,17
+491,Damsuki,obat,-6.350253,106.892778,,,1.1,26
+492,Tatiek Purnomo Wulan,perhiasan,-6.256442,106.761509,,,0.6,46
+493,Uud,plastik,-6.207925,106.792891,,,2.1,17
+494,Winarni,buah dan sayur,-6.221192,106.838783,,,4.7,26
+495,Suryo Sutejo,obat,-6.350253,106.892948,,,1.1,12
+496,Yana Supriatna,galon,-6.256442,106.761509,,,4.7,44
+497,Eva Agriani.M,kue,-6.307332,10.865,,,1.0,31
+498,Ahmad Rokhani,sepatu,-6.350253,106.892731,,,3.3,19
+499,Parmi,emas,-6.207925,106.792806,,,1.5,19
+500,Siti Sofiyati Nur,jamu,-6.256442,106.761509,,,2.2,33
+501,Lamto,minuman,6.267781,106.869237,,,4.8,28
+502,Maryaty Nengsih,warung tegal,-6.264001,106.866053,,,1.4,42
+503,Zubir,sepatu,-6.264001,106.866055,,,1.3,14
+504,Karsah,minuman,-6.221192,106.838783,,,3.7,29
+505,Imran. H,emas,-6.307332,10.86499,,,4.7,10
+506,Moh. Soleh S.,perabotan,-6.207925,106.792788,,,4.2,32
+507,Gian Rasya Putra,koran dan majalah,-6.221192,106.838783,,,0.0,46
+508,Yusrial,daging,-6.207925,106.792905,,,3.2,12
+509,Sukra,emas,-6.152019,106.729403,,,0.2,31
+510,Arfiah,obat,-6.256442,106.761509,,,3.5,38
+511,Suparman,kunci,6.267781,106.869245,,,2.7,5
+512,Saripudin,perhiasan,-6.207925,106.792829,,,1.5,37
+513,Harsito,emas,-6.221192,106.838783,,,1.7,33
+514,Parti,daging,-6.207925,106.792807,,,4.3,3
+515,Muhamad Ikhsanudin,sepatu,-6.350253,106.892858,,,1.7,19
+516,Sartini,buah dan sayur,-6.307332,10.864966,,,0.7,12
+517,Nirwansyah,listrik,-6.256442,106.761509,,,1.7,7
+518,Endang Supriatna,pulsa,-6.152019,106.729409,,,2.0,2
+519,Supriyadi,jam tangan,-6.350253,106.892935,,,1.2,14
+520,Taufik Wicaksono,pulsa,-6.350253,106.892973,,,2.3,41
+521,Randim,warung tegal,-6.350253,106.892892,,,3.5,15
+522,Siti Rohayah,obat,-6.256442,106.761509,,,4.1,47
+523,Dalanmuli Ginting,makanan,-6.350253,106.892765,,,3.2,0
+524,Udin S.,jam tangan,-6.207925,106.792886,,,2.6,15
+525,Budi Purwanto,obat,-6.256442,106.761509,,,1.2,3
+526,Zulfi Munandar,daging,-6.264001,106.866022,,,3.1,6
+527,Wahyudin,kue,-6.350253,106.892991,,,2.3,27
+528,Sri Suwarni,obat,-6.256442,106.761509,,,3.1,25
+529,Mei Handayani,plastik,-6.207925,106.792786,,,3.3,4
+530,Warni,pangkas rambut,-6.350253,106.892986,,,4.5,44
+531,Unip Hendriawan,warung,-6.207925,106.792889,,,0.2,11
+532,Painem,emas,-6.207925,106.792805,,,0.8,32
+533,Atmaja,buah dan sayur,-6.221192,106.838783,,,0.5,39
+534,Suratmi,koran dan majalah,-6.207925,106.792868,,,2.6,4
+535,Ahmad Tasrokhi,warung,-6.350253,106.89274,,,4.4,15
+536,Dedi Iskandar,warung internet,-6.256442,106.761509,,,1.3,23
+537,Abdul Rohman,kue,-6.207925,106.792704,,,1.7,8
+538,Amrizal,jam tangan,-6.256442,106.761509,,,0.5,31
+539,Maryati,warung,-6.207925,106.792783,,,2.5,37
+540,Budi Hartono,pulsa,-6.152019,106.729405,,,3.5,7
+541,Ojo Sutarjo,emas,-6.256442,106.761509,,,3.6,25
+542,Yadi Mulyadi,listrik,-6.350253,106.892995,,,4.5,37
+543,Mulyadi,aksesoris,-6.207925,106.792794,,,3.6,45
+544,Surono,warung tegal,-6.221192,106.838783,,,3.5,18
+545,Sidik,sepatu,6.267781,106.869233,,,4.3,41
+546,Jadid,pangkas rambut,-6.207925,106.792758,,,1.4,41
+547,Hj. Nur'Azizah,warung kopi,-6.152019,106.729382,,,0.5,17
+548,Safridjon,listrik,-6.350253,106.892922,,,3.9,15
+549,Lasmaida.S,pangkas rambut,-6.307332,10.864999,,,0.0,38
+550,Suhri,listrik,-6.350253,106.89291,,,2.5,22
+551,Kartono,sepatu,-6.256442,106.761509,,,3.4,42
+552,Rini Tri Wahyuningsih,minuman,-6.207925,106.792813,,,1.7,2
+553,Zainal Caniago,perabotan,-6.221192,106.838783,,,0.5,21
+554,Zainul Hafidh,makanan,-6.221192,106.838783,,,1.5,4
+555,Namah,elektronik,-6.207925,106.792796,,,4.4,28
+556,Warso,pangkas rambut,-6.256442,106.761509,,,3.7,47
+557,Subiyani,galon,-6.221192,106.838783,,,1.1,12
+558,Sularmi,makanan,-6.207925,106.792853,,,4.2,2
+559,Syafri Andi,plastik,-6.350253,106.892914,,,3.9,2
+560,Asan,aksesoris,-6.152019,106.729401,,,0.4,34
+561,Rini Wigati,perhiasan,-6.256442,106.761509,,,1.2,44
+562,Elok Faiqoh,listrik,-6.256442,106.761509,,,0.4,11
+563,Satiman Cipto Santoso,aksesoris,-6.221192,106.838783,,,0.1,23
+564,Yusup Hamdani,warung internet,-6.350253,106.893032,,,1.1,40
+565,Oki Meldi Putri,koran dan majalah,-6.350253,106.89288,,,4.9,41
+566,Agus Lestari,minuman,-6.256442,106.761509,,,4.9,45
+567,Rini Yanti Br Pasaribu,jam tangan,-6.256442,106.761509,,,0.2,26
+568,Mudjenah,plastik,-6.256442,106.761509,,,4.4,6
+569,Leni Marlina,jam tangan,-6.350253,106.892832,,,2.1,3
+570,Mulyati,pulsa,-6.256442,106.761509,,,4.7,21
+571,Ahmad,elektronik,-6.256442,106.761509,,,1.1,39
+572,Isngali,kue,-6.221192,106.838783,,,1.5,48
+573,Nasir,koran dan majalah,-6.152019,106.729407,,,1.6,10
+574,Ratna Dewi,pangkas rambut,-6.307332,10.864973,,,1.5,6
+575,Suhendra,elektronik,-6.350253,106.892964,,,2.6,18
+576,Kasidi,aksesoris,-6.221192,106.838783,,,4.9,13
+577,Dirjowiyono,listrik,-6.221192,106.838783,,,2.8,34
+578,Leni Susanti,sepatu,-6.350253,106.892833,,,0.4,35
+579,Radjudin,warung kopi,-6.207925,106.792811,,,4.4,49
+580,Hasan Rudin Purba,obat,-6.307332,10.864977,,,0.3,11
+581,Nurjanah,buah dan sayur,-6.264001,106.865993,,,4.6,14
+582,Suratinem,warung internet,-6.221192,106.838783,,,0.0,36
+583,Rosi,warung internet,-6.350253,106.893038,,,3.7,37
+584,Siti Halifah,perhiasan,-6.350253,106.892934,,,4.7,46
+585,Alimuhtar,penjahit,-6.256442,106.761509,,,0.1,49
+586,Sudiyono,warung internet,-6.350253,106.892962,,,0.4,13
+587,Winda Mulia,warung,-6.350253,106.893007,,,4.2,49
+588,Haryono,beras,-6.256442,106.761509,,,0.0,14
+589,Bambang,koran dan majalah,6.267781,106.86922,,,2.1,11
+590,Mardiana,kunci,-6.221192,106.838783,,,1.8,13
+591,Dindin Saepudin,jam tangan,-6.350253,106.892766,,,2.7,14
+592,Abdillah,koran dan majalah,-6.221192,106.838783,,,4.7,35
+593,M. Syafi'I,warung tegal,-6.152019,106.72938,,,4.4,46
+594,Mutiah,koran dan majalah,-6.350253,106.89284,,,2.0,17
+595,Syahrial,elektronik,-6.264001,106.866018,,,4.6,36
+596,Suminto,emas,-6.221192,106.838783,,,2.4,41
+597,Munjayanah,perhiasan,-6.256442,106.761509,,,4.3,39
+598,Sulastri,minuman,-6.264001,106.86606,,,3.8,16
+599,Sahrin,warung,-6.256442,106.761509,,,3.6,21
+600,Samsuri,aksesoris,-6.307332,10.864994,,,0.2,39
+601,Suryat,pangkas rambut,-6.221192,106.838783,,,1.2,12
+602,Muhammad Amien,listrik,-6.350253,106.892839,,,2.4,24
+603,Sugiran,daging,-6.207925,106.792843,,,4.4,24
+604,Asra,galon,-6.207925,106.792716,,,0.1,13
+605,Sukamto,pakaian,6.267781,106.869224,,,2.5,22
+606,Khaidir,emas,-6.350253,106.89283,,,2.7,25
+607,Anastasia Jessica,emas,-6.256442,106.761509,,,1.6,13
+608,Sefrudin Juhri,obat,-6.256442,106.761509,,,1.7,12
+609,Saprudin,jamu,-6.207925,106.792826,,,1.3,34
+610,Candra,buah dan sayur,-6.307332,10.864979,,,2.1,7
+611,Sri Wati,warung kopi,-6.256442,106.761509,,,3.2,29
+612,Maya,penjahit,-6.221192,106.838783,,,4.2,32
+613,Subandi,pakaian,-6.207925,106.792839,,,1.8,39
+614,Warmah,pangkas rambut,-6.152019,106.729392,,,1.0,0
+615,Zaenal Arifin,sepatu,-6.152019,106.729391,,,4.2,0
+616,Darmauli Purba,perabotan,-6.350253,106.89278,,,4.9,27
+617,Suherman,penjahit,-6.207925,106.792846,,,0.4,34
+618,Imran. S,buah dan sayur,-6.350253,106.892819,,,2.5,24
+619,Wardono,obat,-6.207925,106.792894,,,2.3,22
+620,Datuk Batuah,warung,-6.264001,106.866015,,,4.0,43
+621,Mardi,pulsa,6.267781,106.869238,,,0.7,41
+622,Wandi,aksesoris,-6.152019,106.729418,,,2.3,44
+623,Wawan Purnawan,warung tegal,-6.350253,106.893009,,,3.9,48
+624,Muhamad Hali,jam tangan,-6.152019,106.729379,,,4.5,35
+625,Edi Susfanto,perabotan,-6.221192,106.838783,,,3.0,34
+626,Sumiati,koran dan majalah,-6.221192,106.838783,,,4.9,40
+627,Sukarmin,sepatu,-6.256442,106.761509,,,4.3,3
+628,Sri Lestari,pulsa,-6.307332,10.864997,,,2.8,11
+629,Matiyah,plastik,-6.256442,106.761509,,,2.9,39
+630,Ari Dwi Romadhoni,emas,-6.256442,106.761509,,,4.4,16
+631,Sumeri,jam tangan,-6.256442,106.761509,,,1.0,25
+632,Evi Liana. S,minuman,-6.307332,10.864983,,,4.6,5
+633,H. Mohammad Muiz,emas,6.267781,106.869234,,,1.3,19
+634,Yuli S.,perabotan,-6.207925,106.792903,,,1.3,5
+635,Purwanti,buah dan sayur,-6.207925,106.792808,,,2.6,9
+636,Hj. Rohimah,penjahit,-6.350253,106.892808,,,2.0,28
+637,Yusrizal,pangkas rambut,-6.350253,106.892994,,,1.6,2
+638,Febrizal,makanan,-6.350253,106.892796,,,3.3,34
+639,Suparti,makanan,6.267781,106.869261,,,1.8,28
+640,Nurina,warung,-6.207925,106.792802,,,1.7,48
+641,Ramses Simamora,warung,-6.350253,106.892899,,,1.3,6
+642,Siti Sudiyanti,jam tangan,-6.221192,106.838783,,,0.9,8
+643,Andre,beras,-6.256442,106.761509,,,2.3,36
+644,Ida,aksesoris,-6.264001,106.866034,,,3.8,14
+645,Sulimin,jamu,-6.221192,106.838783,,,4.0,8
+646,Yastrib,daging,-6.256442,106.761509,,,0.2,31
+647,Arwati,elektronik,-6.256442,106.761509,,,3.9,25
+648,Muhammad Nur,kue,-6.221192,106.838783,,,4.5,43
+649,Supriyanto,perabotan,-6.152019,106.729385,,,4.3,12
+650,Rovi Yunitra,galon,-6.350253,106.892895,,,1.0,18
+651,Sugiyem,pakaian,-6.207925,106.792844,,,4.8,7
+652,Sumiyati,warung internet,-6.256442,106.761509,,,4.1,30
+653,Nur Baiti,pakaian,-6.350253,106.892875,,,4.0,42
+654,Sugiarti,pangkas rambut,-6.350253,106.892937,,,2.0,18
+655,Mohamad Dasikin,jamu,-6.256442,106.761509,,,1.6,17
+656,Samiyem,warung kopi,-6.350253,106.892921,,,3.5,13
+657,Painem,galon,-6.350253,106.892883,,,2.5,46
+658,Haryanto,pulsa,-6.207925,106.792746,,,1.3,2
+659,Supardi,warung internet,-6.207925,106.792861,,,4.1,26
+660,Nurhayati,emas,-6.221192,106.838783,,,4.6,49
+661,A. Rusman,obat,-6.207925,106.792702,,,2.7,5
+662,Nurmawati,listrik,-6.350253,106.892868,,,1.3,14
+663,Siti Mutamimah,obat,-6.256442,106.761509,,,1.9,47
+664,Nuryahya,warung tegal,-6.221192,106.838783,,,1.8,7
+665,Suparti,perhiasan,-6.221192,106.838783,,,2.2,17
+666,Iin Setyaningsih,minuman,-6.221192,106.838783,,,3.6,11
+667,Djunaedi,listrik,-6.221192,106.838783,,,3.2,49
+668,Agus Juwandi,aksesoris,-6.256442,106.761509,,,2.8,12
+669,Medy Hasugian,pakaian,-6.264001,106.866026,,,4.8,15
+670,Awan Bin Sarih,plastik,-6.207925,106.792717,,,4.3,40
+671,Nasa,kunci,-6.207925,106.792798,,,3.1,18
+672,Hoirotul Paisah,galon,-6.350253,106.89281,,,2.9,16
+673,Mariyo,pulsa,-6.350253,106.892842,,,0.7,2
+674,Sudarti,pulsa,-6.221192,106.838783,,,2.3,11
+675,Lilis Litawati,perhiasan,-6.256442,106.761509,,,4.9,6
+676,Rohudin,perabotan,-6.207925,106.792816,,,0.0,39
+677,Sabar,perabotan,-6.350253,106.892905,,,1.8,37
+678,Achmad Rifai,aksesoris,-6.221192,106.838783,,,3.4,15
+679,Purwanto,obat,-6.207925,106.792809,,,0.2,6
+680,Huldi,jam tangan,-6.207925,106.792752,,,2.0,12
+681,Suharti,kunci,-6.350253,106.892959,,,4.1,19
+682,Noto Dinoto,aksesoris,-6.264001,106.866044,,,3.3,1
+683,Supadno,plastik,-6.256442,106.761509,,,0.6,30
+684,Devi Yanto,minuman,-6.264001,106.866023,,,3.6,21
+685,Mansur,kue,-6.256442,106.761509,,,4.3,19
+686,Asmawati,warung internet,-6.264001,106.866014,,,1.5,13
+687,Jani,aksesoris,-6.207925,106.79276,,,1.0,40
+688,Ferry Setiawan,kunci,-6.256442,106.761509,,,2.6,5
+689,Mamat Sani,koran dan majalah,-6.256442,106.761509,,,4.7,23
+690,Titing,minuman,-6.350253,106.892975,,,1.5,31
+691,Hadiroh,koran dan majalah,-6.207925,106.792745,,,4.1,28
+692,Mansur,sepatu,-6.221192,106.838783,,,4.5,28
+693,Eman,perhiasan,-6.350253,106.892783,,,0.6,24
+694,Desi Tri Mulyani,pangkas rambut,-6.256442,106.761509,,,2.7,32
+695,Tumini,makanan,-6.207925,106.792884,,,1.0,23
+696,Mardi Mulyani,koran dan majalah,-6.152019,106.729399,,,2.7,46
+697,Sida,emas,-6.221192,106.838783,,,3.0,11
+698,Sunengsih,daging,-6.207925,106.792859,,,2.9,26
+699,Sartin,sepatu,-6.207925,106.79283,,,4.6,20
+700,Joko Triono,warung,-6.256442,106.761509,,,4.3,26
+701,Didi Hartono,pulsa,-6.350253,106.892776,,,3.5,13
+702,Wardoyo,jam tangan,-6.207925,106.792895,,,1.8,31
+703,Parno,obat,-6.264001,106.866047,,,3.1,10
+704,Adri Efendi,pulsa,-6.350253,106.892733,,,4.8,11
+705,Syafrinal,emas,-6.350253,106.892908,,,4.9,8
+706,Kenik ,kunci,-6.264001,106.866068,,,0.1,13
+707,Mujiono,pulsa,-6.207925,106.792792,,,3.2,34
+708,Markam,aksesoris,-6.256442,106.761509,,,3.1,38
+709,Engkos Maryono,makanan,-6.207925,106.792736,,,0.9,29
+710,Siti Nuryati,perhiasan,-6.350253,106.893014,,,4.5,2
+711,Achmad Buchori,emas,-6.221192,106.838783,,,2.1,45
+712,Pinah,plastik,-6.256442,106.761509,,,3.7,49
+713,Lasman,jam tangan,-6.350253,106.892835,,,1.3,25
+714,Naseroh,perhiasan,-6.256442,106.761509,,,2.0,28
+715,Utiyah,warung kopi,-6.350253,106.892979,,,3.2,44
+716,Saniar,koran dan majalah,-6.264001,106.866042,,,4.1,33
+717,Suhudi Bin Salim,daging,-6.256442,106.761509,,,2.1,12
+718,Sukini,aksesoris,-6.207925,106.792851,,,1.7,7
+719,Suwardi,perabotan,-6.350253,106.892967,,,1.8,23
+720,Nawiyah,minuman,-6.256442,106.761509,,,3.0,47
+721,Alkhoerul,makanan,-6.350253,106.892753,,,4.2,15
+722,Anton M Hutagalung,pulsa,-6.264001,106.866008,,,1.5,7
+723,Mada,aksesoris,-6.207925,106.792777,,,1.3,39
+724,Maria Theresia S,minuman,-6.264001,106.865998,,,3.7,4
+725,Shobibur. R,perabotan,-6.307332,10.864987,,,0.5,24
+726,Jayadi,koran dan majalah,-6.221192,106.838783,,,0.8,48
+727,Suginem,plastik,-6.207925,106.792842,,,3.7,24
+728,Yanti Oktavia,pulsa,-6.350253,106.892997,,,0.6,31
+729,Ike Septiani,perhiasan,-6.256442,106.761509,,,0.9,24
+730,Ani Cahyani,warung,-6.307332,10.865004,,,3.1,21
+731,Asmila,makanan,-6.152019,106.72942,,,2.1,18
+732,Zainudin,elektronik,-6.207925,106.792907,,,0.7,45
+733,Tasman,warung kopi,-6.207925,106.792879,,,1.8,46
+734,Eka Budiansyah,makanan,-6.221192,106.838783,,,1.5,10
+735,Suhana,warung kopi,-6.221192,106.838783,,,3.5,19
+736,Tateng Darojat,pulsa,-6.350253,106.892977,,,2.1,6
+737,Aminah,plastik,-6.207925,106.792711,,,0.9,46
+738,Bakat,warung tegal,-6.221192,106.838783,,,1.8,49
+739,Ida,penjahit,-6.221192,106.838783,,,1.4,15
+740,Muhammad Izul M,jamu,-6.256442,106.761509,,,1.5,10
+741,Siti Aisyah,sepatu,-6.256442,106.761509,,,1.5,33
+742,Syarifudin,warung internet,-6.350253,106.892931,,,3.3,9
+743,Sarif Suhendar,kunci,-6.350253,106.892929,,,1.8,20
+744,Murni,pakaian,-6.221192,106.838783,,,4.8,11
+745,Katmi,sepatu,-6.256442,106.761509,,,0.8,13
+746,Tandyo Purno Ratoyo,daging,-6.207925,106.792874,,,4.6,26
+747,Hotimah,jam tangan,-6.221192,106.838783,,,3.5,33
+748,Rohwati,warung kopi,-6.221192,106.838783,,,0.8,44
+749,Tb. Andi Rukandi,pangkas rambut,6.267781,106.86926,,,0.3,24
+750,H. Matsuhri,pulsa,-6.152019,106.729415,,,4.2,37
+751,Irwan,kue,-6.256442,106.761509,,,3.3,9
+752,Nurlina  Pangaribuan,warung tegal,-6.256442,106.761509,,,1.7,14
+753,Mukari,listrik,-6.221192,106.838783,,,4.3,12
+754,Muwardi,perabotan,-6.350253,106.892853,,,2.5,33
+755,Rika Juniati,kunci,-6.256442,106.761509,,,4.5,17
+756,Eli,warung internet,-6.221192,106.838783,,,3.8,48
+757,Jumilah,beras,-6.264001,106.865991,,,3.8,16
+758,Prana Jaya,sepatu,-6.307332,10.864989,,,3.2,12
+759,Mustapid B H Limah,minuman,-6.264001,106.866021,,,4.1,48
+760,Irawan Bambang,buah dan sayur,-6.256442,106.761509,,,0.9,18
+761,Firman,galon,-6.307332,10.864984,,,4.0,27
+762,Tiwi Pariyanti,galon,-6.207925,106.792881,,,4.2,6
+763,Rini Susanti,jamu,-6.350253,106.892893,,,1.6,14
+764,Abdul Halid Bin H . Usman,beras,-6.221192,106.838783,,,0.5,34
+765,Siti Amah,pakaian,-6.256442,106.761509,,,1.4,34
+766,M.A Djanadi,pakaian,-6.307332,10.864995,,,2.7,32
+767,Nadil,aksesoris,-6.207925,106.792795,,,1.1,1
+768,Wajito,koran dan majalah,-6.207925,106.792893,,,3.4,15
+769,Eti,elektronik,-6.207925,106.792738,,,1.9,10
+770,Yayan Jaya Suryana,penjahit,-6.207925,106.7929,,,0.2,29
+771,Fatmawaty,listrik,-6.264001,106.866017,,,0.2,17
+772,Muhaya Mursin,penjahit,-6.256442,106.761509,,,2.2,21
+773,Aries Hermansyah,kue,-6.256442,106.761509,,,2.8,48
+774,Rohati,galon,-6.221192,106.838783,,,4.0,5
+775,H. Udis,pakaian,-6.207925,106.792744,,,0.7,35
+776,Hj. Halimah Tusa'Diyah,pangkas rambut,-6.207925,106.792749,,,3.2,28
+777,Robait Alam,perhiasan,-6.256442,106.761509,,,3.8,22
+778,Badrudin,kue,-6.350253,106.892755,,,2.2,30
+779,Uyi Sukaesih,warung internet,-6.221192,106.838783,,,4.4,19
+780,Sumarti,makanan,-6.207925,106.792856,,,0.9,36
+781,Yaumal Darlin,pulsa,-6.256442,106.761509,,,4.8,48
+782,Naswan,beras,-6.256442,106.761509,,,4.8,0
+783,Hartatik,makanan,-6.221192,106.838783,,,4.3,45
+784,Manis,pangkas rambut,-6.152019,106.729395,,,4.4,23
+785,Paryono,galon,-6.256442,106.761509,,,3.0,30
+786,Patimah,pakaian,-6.350253,106.892882,,,2.3,0
+787,Suratno,listrik,-6.350253,106.893025,,,2.7,5
+788,Bery Novtavia,kunci,-6.264001,106.866019,,,1.2,49
+789,Mulyadi,makanan,-6.256442,106.761509,,,3.4,19
+790,Edward,plastik,-6.350253,106.892788,,,0.4,6
+791,Kisno Sulamto,sepatu,6.267781,106.869229,,,2.9,35
+792,Ridlotun Nisa,pakaian,-6.256442,106.761509,,,0.3,48
+793,Sukimin,obat,-6.221192,106.838783,,,3.3,4
+794,Ujang Junaedi,galon,-6.207925,106.792887,,,4.2,16
+795,Kadar,elektronik,-6.350253,106.892826,,,4.9,46
+796,Sumiati,galon,-6.152019,106.729389,,,0.0,29
+797,Togar.M,perabotan,-6.307332,10.865002,,,1.0,19
+798,Samid,aksesoris,-6.152019,106.729394,,,2.8,35
+799,Ngatinah,pakaian,-6.350253,106.892879,,,4.7,0
+800,Syamsidar,kunci,-6.256442,106.761509,,,1.6,16
+801,Tukimin,koran dan majalah,-6.221192,106.838783,,,3.3,13
+802,Ahmad Zainuri,warung kopi,-6.350253,106.892745,,,0.4,42
+803,Suyoto A.M,minuman,-6.256442,106.761509,,,3.7,1
+804,Nurhasanah Bt Rodjali,warung,-6.350253,106.892865,,,4.4,11
+805,Mardialis,koran dan majalah,-6.264001,106.865986,,,2.5,5
+806,Ninik Sulastri,galon,-6.221192,106.838783,,,2.6,49
+807,Muhammad Jamroji,pulsa,-6.207925,106.79279,,,4.7,42
+808,Nurbadriah,aksesoris,-6.152019,106.7294,,,2.2,27
+809,Bainar,perabotan,-6.350253,106.892757,,,1.7,28
+810,Yallindra,beras,-6.264001,106.866054,,,3.3,45
+811,Yuani,pulsa,-6.350253,106.892992,,,4.0,1
+812,Dian Priamsari,sepatu,-6.350253,106.893039,,,1.5,15
+813,Sobar,sepatu,-6.207925,106.792835,,,0.8,8
+814,Redi Saputra,beras,-6.350253,106.893006,,,3.1,26
+815,Suharno,beras,-6.256442,106.761509,,,1.0,40
+816,Fredi,perhiasan,6.267781,106.869259,,,2.6,0
+817,Dalmundiah,makanan,-6.350253,106.892771,,,1.9,32
+818,Damung,emas,-6.207925,106.792724,,,4.5,20
+819,Slamet,warung tegal,-6.256442,106.761509,,,2.3,32
+820,Suwarno,kue,-6.350253,106.892945,,,4.7,43
+821,Liau Fong Jan,plastik,-6.256442,106.761509,,,2.5,3
+822,Nur Heri Mursid,sepatu,-6.350253,106.892872,,,0.8,9
+823,Sri Lestari Mawarti,penjahit,6.267781,106.869212,,,3.2,1
+824,Sarjaya,galon,-6.221192,106.838783,,,2.5,24
+825,Mulyati,obat,-6.256442,106.761509,,,2.1,15
+826,H. Nada Karnada,pangkas rambut,-6.350253,106.892803,,,3.6,41
+827,Winata. M. Zein,plastik,-6.350253,106.892988,,,3.9,36
+828,Wiwin Indarmawati,pangkas rambut,-6.350253,106.892989,,,3.0,10
+829,Fitria Yuliastuti,makanan,-6.256442,106.761509,,,1.8,32
+830,Juriyah,emas,-6.256442,106.761509,,,2.7,20
+831,Riswatun Khasanah,minuman,-6.207925,106.792814,,,3.2,5
+832,Ismah,elektronik,-6.152019,106.729384,,,3.1,14
+833,Mohamad Syahlan,jam tangan,-6.152019,106.729404,,,3.1,5
+834,Henny,koran dan majalah,-6.207925,106.792748,,,0.6,25
+835,Misniati,kue,-6.350253,106.892841,,,4.8,4
+836,M.Parapat,warung,-6.264001,106.865992,,,4.0,2
+837,Wenny Naviola,plastik,-6.350253,106.892984,,,4.1,24
+838,Yusri,listrik,-6.307332,10.864974,,,0.9,2
+839,Tatik,kue,-6.221192,106.838783,,,1.8,32
+840,Suradi,jamu,-6.207925,106.792866,,,2.3,33
+841,Topik Hidayat,warung kopi,-6.256442,106.761509,,,4.1,42
+842,Wiji Sugiarti,perhiasan,-6.350253,106.892982,,,3.3,9
+843,Nur Ngaeni,emas,-6.256442,106.761509,,,2.0,35
+844,Ratna Sari,daging,-6.256442,106.761509,,,3.0,48
+845,Indri Ari Gunawan,beras,-6.350253,106.893008,,,3.0,11
+846,Buyung Djiman,kunci,-6.256442,106.761509,,,0.2,26
+847,Dasrial,makanan,-6.350253,106.892762,,,0.1,9
+848,Andi,sepatu,-6.221192,106.838783,,,4.5,19
+849,Tihanah,koran dan majalah,-6.256442,106.761509,,,3.8,29
+850,Nurzuar,emas,-6.256442,106.761509,,,4.9,12
+851,Soleha,penjahit,-6.256442,106.761509,,,0.4,30
+852,Sarnata,plastik,-6.350253,106.893035,,,2.4,28
+853,Suharti,pakaian,-6.256442,106.761509,,,3.2,20
+854,Burhanuddin,penjahit,-6.264001,106.865983,,,2.1,11
+855,Herman,plastik,-6.350253,106.892801,,,3.7,14
+856,Saud,kunci,-6.221192,106.838783,,,1.1,31
+857,Sutater,buah dan sayur,-6.221192,106.838783,,,3.9,36
+858,Taupik Prastiyo,beras,-6.350253,106.892978,,,2.2,33
+859,Darmini,kue,-6.256442,106.761509,,,3.5,45
+860,Saliyah,perabotan,-6.350253,106.892909,,,2.5,22
+861,Haely,sepatu,-6.221192,106.838783,,,3.7,1
+862,Asnawih,perhiasan,-6.256442,106.761509,,,3.9,44
+863,Tonari,galon,-6.221192,106.838783,,,4.7,19
+864,Bebi Purwanti,perhiasan,-6.256442,106.761509,,,2.9,33
+865,Milah Kurniawati,warung tegal,-6.221192,106.838783,,,1.3,10
+866,Nepa Yasni,elektronik,-6.264001,106.866049,,,2.6,19
+867,Rusni,plastik,-6.256442,106.761509,,,4.4,20
+868,Armin,kue,-6.207925,106.792715,,,0.7,41
+869,Edi Kusdiana,warung tegal,-6.207925,106.792731,,,4.7,37
+870,Yuni Muspawati,buah dan sayur,-6.350253,106.893,,,1.5,11
+871,Salmia Wati Tumota,pakaian,-6.221192,106.838783,,,0.3,15
+872,Encih,obat,-6.207925,106.792734,,,3.2,9
+873,Dede,warung internet,-6.207925,106.792728,,,0.4,47
+874,Siswanto,sepatu,-6.256442,106.761509,,,1.5,0
+875,Chabibur Rohman,perabotan,-6.350253,106.893026,,,3.2,0
+876,Paniyem,plastik,-6.221192,106.838783,,,3.8,24
+877,Tubi Suryadi,makanan,-6.221192,106.838783,,,3.2,25
+878,Siti Ajir,daging,-6.264001,106.866066,,,2.3,20
+879,Sanusi,makanan,-6.256442,106.761509,,,3.8,6
+880,Nita Susita,galon,-6.307332,10.864988,,,4.5,3
+881,Rahmadi,pangkas rambut,-6.221192,106.838783,,,2.4,45
+882,Sriyanto,buah dan sayur,-6.221192,106.838783,,,1.7,6
+883,Basar Maridjo,obat,-6.264001,106.86599,,,1.3,41
+884,Marsini,koran dan majalah,-6.256442,106.761509,,,0.8,38
+885,Drs. Ipin Supendi,jam tangan,-6.307332,10.864964,,,3.8,24
+886,Suroto,koran dan majalah,-6.256442,106.761509,,,0.9,27
+887,Suyanti,aksesoris,-6.256442,106.761509,,,4.9,21
+888,Amran Sukamto,kue,-6.264001,106.865996,,,0.3,48
+889,Lala Nurlaela,obat,6.267781,106.869227,,,4.5,15
+890,Budiyanto,jamu,-6.350253,106.893036,,,2.3,40
+891,Sri Partini,kunci,-6.221192,106.838783,,,1.3,30
+892,Rina Angraini,makanan,-6.350253,106.892891,,,3.1,34
+893,Masriah,pulsa,-6.256442,106.761509,,,4.0,48
+894,Restina Sirait,obat,-6.350253,106.892897,,,0.7,33
+895,Siti Muna Yana,warung kopi,-6.350253,106.892904,,,1.5,40
+896,H. Suparo,listrik,-6.152019,106.729381,,,1.7,41
+897,Julaidah,perhiasan,-6.207925,106.792764,,,2.5,47
+898,Rokhani,emas,-6.207925,106.792817,,,3.1,9
+899,Enur Bin Kasan,plastik,-6.350253,106.892791,,,1.6,14
+900,Sunarni,obat,-6.221192,106.838783,,,1.1,8
+901,Atma Jaya,warung kopi,-6.350253,106.892751,,,0.4,18
+902,Cecep,warung,-6.207925,106.792721,,,1.6,46
+903,Kandi,koran dan majalah,6.267781,106.86923,,,4.8,49
+904,Hosibah,koran dan majalah,-6.256442,106.761509,,,0.3,29
+905,Widiyaningsih Eko Putri,makanan,-6.256442,106.761509,,,0.2,19
+906,Endarwati Ningsih,beras,-6.350253,106.892794,,,3.9,20
+907,Mansur,warung kopi,6.267781,106.869215,,,2.9,34
+908,Samiatun,warung,-6.256442,106.761509,,,0.4,45
+909,Toyibah,warung tegal,-6.207925,106.792882,,,0.6,24
+910,Suparni,jamu,-6.256442,106.761509,,,0.0,21
+911,Supriyatna,sepatu,-6.350253,106.892938,,,1.5,49
+912,Sunarwi,perabotan,-6.207925,106.792857,,,0.1,22
+913,Alpupu Marpuah,kue,-6.350253,106.892752,,,1.1,3
+914,Suhardi,perabotan,-6.256442,106.761509,,,0.3,45
+915,Sugiharti,pakaian,-6.221192,106.838783,,,0.5,29
+916,Suroto,buah dan sayur,-6.221192,106.838783,,,0.7,23
+917,Sulardi,pangkas rambut,6.267781,106.869214,,,1.6,45
+918,Muliyati,makanan,-6.256442,106.761509,,,0.6,18
+919,Sukini,warung kopi,-6.207925,106.79285,,,3.6,31
+920,Sunarti,emas,-6.256442,106.761509,,,2.7,23
+921,Musliana,sepatu,-6.221192,106.838783,,,0.2,38
+922,Efrianti,warung tegal,-6.350253,106.892786,,,2.9,44
+923,Mahpudin,jam tangan,-6.207925,106.792778,,,4.9,20
+924,Hasan,koran dan majalah,-6.207925,106.792747,,,0.9,40
+925,Sumanti,warung tegal,-6.221192,106.838783,,,1.8,3
+926,Agung Wibowo,kunci,-6.221192,106.838783,,,0.6,18
+927,"Rina Sarinah , Hj",kunci,-6.221192,106.838783,,,3.5,47
+928,Sodikun,pakaian,-6.221192,106.838783,,,1.2,35
+929,Endang Yoes Hendar,pakaian,-6.221192,106.838783,,,4.6,28
+930,Dakhori,aksesoris,-6.256442,106.761509,,,1.3,46
+931,Toyo,kue,-6.256442,106.761509,,,4.5,35
+932,Winarti,beras,-6.256442,106.761509,,,3.6,49
+933,Suyamti,minuman,-6.207925,106.792872,,,3.9,33
+934,Arip Rusman,aksesoris,-6.221192,106.838783,,,4.7,9
+935,Darmo Wiyono,penjahit,6.267781,106.869246,,,0.9,9
+936,Kusmiyati,perabotan,-6.307332,10.86498,,,2.1,5
+937,Arman,perhiasan,-6.207925,106.792714,,,4.1,43
+938,Abdul Syukur,emas,-6.350253,106.892744,,,4.8,15
+939,Ny. Sani,jamu,-6.207925,106.792804,,,0.8,2
+940,Layem,warung kopi,-6.207925,106.792775,,,3.1,10
+941,Marsiyah,minuman,-6.350253,106.893024,,,4.5,41
+942,M . Haris,makanan,-6.350253,106.89303,,,0.9,2
+943,Endah Sulistyaningsih,jamu,-6.207925,106.792735,,,0.0,30
+944,Suratman,elektronik,-6.221192,106.838783,,,1.2,38
+945,Puji Lestari,minuman,-6.350253,106.893013,,,4.6,1
+946,Junadi,obat,-6.350253,106.892825,,,3.6,17
+947,Suwanto,warung,-6.256442,106.761509,,,4.7,14
+948,Zubaidi,perabotan,-6.350253,106.893001,,,0.1,44
+949,Windu Befriyadi,jam tangan,-6.256442,106.761509,,,1.2,25
+950,Lakmudin,warung internet,-6.207925,106.792773,,,1.0,35
+951,Iropah,pakaian,-6.207925,106.792755,,,1.3,12
+952,Masir,obat,-6.207925,106.792784,,,0.5,10
+953,Sujiyanto,warung internet,-6.221192,106.838783,,,1.4,3
+954,Wasiman,minuman,-6.350253,106.89299,,,3.5,3
+955,Naseh,pangkas rambut,-6.221192,106.838783,,,1.3,30
+956,Hadi Santoso,pakaian,6.267781,106.869248,,,4.0,7
+957,Syaiful Bahri,warung kopi,-6.152019,106.729406,,,0.6,5
+958,Yatin,pulsa,-6.207925,106.792899,,,3.1,21
+959,Kuwatono,kue,-6.256442,106.761509,,,3.2,8
+960,Warimulinta Sembiring,jam tangan,-6.350253,106.892987,,,3.1,40
+961,Sarmuti,perabotan,-6.221192,106.838783,,,4.3,47
+962,Margana,kue,-6.350253,106.892843,,,4.8,15
+963,Hendri,pangkas rambut,-6.350253,106.892805,,,2.2,2
+964,Zaitun,jam tangan,-6.256442,106.761509,,,3.8,17
+965,Solehah,daging,-6.207925,106.792836,,,0.1,15
+966,Komarudin,pakaian,-6.256442,106.761509,,,2.2,7
+967,Aniyah,warung internet,-6.350253,106.892742,,,1.1,49
+968,Fitriah,elektronik,-6.256442,106.761509,,,4.7,16
+969,Zaidir,warung tegal,-6.264001,106.866003,,,1.9,48
+970,Hari Wibowo,kue,-6.256442,106.761509,,,2.6,12
+971,Sri Erlawati,warung,-6.207925,106.792837,,,1.9,11
+972,Amsor,kunci,-6.207925,106.792712,,,3.3,40
+973,Bu Enih,warung tegal,-6.307332,10.865003,,,3.3,21
+974,H. Supanda,jamu,-6.152019,106.729402,,,4.1,26
+975,Suratman,jamu,-6.221192,106.838783,,,0.4,40
+976,Elah,beras,-6.256442,106.761509,,,0.9,8
+977,Suratmi,warung tegal,-6.221192,106.838783,,,4.8,26
+978,Ngadiman,galon,-6.221192,106.838783,,,4.7,28
+979,Saiman,pakaian,-6.350253,106.892923,,,1.2,17
+980,Syafi`I,obat,-6.350253,106.892918,,,0.6,26
+981,Erwat,jamu,-6.256442,106.761509,,,1.0,22
+982,Titin Sumarni,makanan,-6.207925,106.79288,,,1.1,19
+983,Rianopandi,perabotan,-6.307332,10.864961,,,3.2,42
+984,Sriyanti,daging,-6.221192,106.838783,,,4.6,12
+985,Dalinem,beras,-6.207925,106.792723,,,3.6,44
+986,Bambang Hermono,obat,-6.350253,106.893018,,,2.5,45
+987,Dasi,pulsa,-6.207925,106.792726,,,4.6,30
+988,Solehatun,galon,-6.307332,10.864975,,,4.7,16
+989,Asrori,jam tangan,-6.256442,106.761509,,,2.1,8
+990,Syafril,buah dan sayur,-6.350253,106.892916,,,3.5,13
+991,Hasanah ,kue,-6.221192,106.838783,,,3.9,40
+992,Indrawati Puji Lestari,minuman,-6.350253,106.893019,,,2.0,31
+993,Lim Min Ciu,warung,-6.256442,106.761509,,,4.8,5
+994,Indra Hidayat,plastik,-6.256442,106.761509,,,0.8,13
+995,Suwarman,warung internet,-6.264001,106.866059,,,1.0,18
+996,Elyda,penjahit,-6.256442,106.761509,,,0.2,0
+997,Dalinem,pangkas rambut,-6.207925,106.792722,,,0.8,36
+998,Siti Khalimah,daging,-6.221192,106.838783,,,2.8,48
+999,Heni Lestari,pulsa,-6.256442,106.761509,,,0.7,22
+1000,Neng Royani,pangkas rambut,-6.256442,106.761509,,,2.2,6
+1001,Yulianty,listrik,-6.264001,106.866056,,,2.9,28
+1002,Wiji Lestari,buah dan sayur,-6.207925,106.792897,,,2.7,15
+1003,Eti Ruchaeti,emas,-6.350253,106.892787,,,2.1,13
+1004,Safwana,daging,-6.264001,106.865999,,,3.4,38
+1005,Dasri,kue,-6.350253,106.892777,,,0.9,45
+1006,Nurhayati,sepatu,-6.152019,106.72939,,,2.7,20
+1007,Nasrun,minuman,-6.264001,106.866045,,,1.6,12
+1008,M . Saleh,koran dan majalah,-6.221192,106.838783,,,2.9,27
+1009,Afrial,beras,-6.350253,106.892736,,,4.8,14
+1010,Sumarsih,daging,-6.256442,106.761509,,,2.3,12
+1011,Rizia Ulfa,koran dan majalah,-6.350253,106.892889,,,3.9,27
+1012,Jusmawati,makanan,-6.256442,106.761509,,,0.4,42
+1013,Rena Maulida,warung,-6.256442,106.761509,,,1.8,49
+1014,Daryanto,daging,-6.221192,106.838783,,,2.5,28
+1015,Emon Mudgofar,obat,-6.207925,106.792733,,,2.8,8
+1016,Sulmanudin,warung,-6.307332,10.864991,,,3.7,9
+1017,Sarju,minuman,-6.152019,106.729412,,,3.9,16
+1018,Bisri Samsuri,jam tangan,-6.207925,106.79272,,,0.3,19
+1019,Mursidah,listrik,-6.221192,106.838783,,,0.1,23
+1020,Nur Afrilia,kunci,-6.256442,106.761509,,,4.2,2
+1021,Zaenal Abidin,daging,-6.221192,106.838783,,,4.5,35
+1022,Oky Rinaldi,emas,-6.264001,106.86605,,,1.6,10
+1023,Warsino,warung tegal,-6.152019,106.729419,,,4.9,39
+1024,Suparno,plastik,-6.207925,106.792862,,,1.4,2
+1025,Kemis,warung tegal,-6.350253,106.892827,,,0.6,5
+1026,Firma Tiberanto,warung tegal,-6.350253,106.892797,,,2.0,6
+1027,Iwan Kurniawan,warung internet,-6.256442,106.761509,,,2.0,42
+1028,Udi Humaedi,warung kopi,-6.207925,106.792885,,,2.4,44
+1029,Suhanda,galon,-6.207925,106.792845,,,2.3,35
+1030,Lilis Kholisah,buah dan sayur,-6.350253,106.892837,,,4.7,22
+1031,Agus Suparlining Cipto,perhiasan,-6.207925,106.792709,,,4.1,40
+1032,Restu Sutriyadi,buah dan sayur,-6.256442,106.761509,,,3.9,8
+1033,Sunarto,elektronik,-6.221192,106.838783,,,4.1,8
+1034,Dewi Utari,emas,-6.207925,106.792729,,,2.1,19
+1035,Iwa Sopian,sepatu,-6.350253,106.892821,,,3.2,48
+1036,Annissa Ayuningdyah,pakaian,-6.256442,106.761509,,,4.9,46
+1037,Triyadi,galon,-6.221192,106.838783,,,4.7,39
+1038,Danang Bagus. W,penjahit,-6.350253,106.89277,,,3.8,30
+1039,Agus Hermawan,galon,-6.264001,106.866067,,,0.1,46
+1040,Mustar,kue,-6.350253,106.892855,,,0.0,26
+1041,Mai Supriati,aksesoris,-6.350253,106.892845,,,1.3,47
+1042,Muhammad Iman,pangkas rambut,-6.256442,106.761509,,,2.3,8
+1043,Wawan Suherman,sepatu,-6.350253,106.892985,,,3.2,16
+1044,Anton Susila,pulsa,-6.264001,106.866005,,,0.4,0
+1045,Daryatmo,galon,6.267781,106.869247,,,2.2,42
+1046,Sukarmi,elektronik,-6.350253,106.892932,,,4.1,19
+1047,Neti Riana,listrik,-6.307332,10.864962,,,3.6,29
+1048,Erni Yusnita,koran dan majalah,-6.264001,106.866029,,,0.5,11
+1049,Ibrahim,warung internet,-6.350253,106.893029,,,2.3,18
+1050,Sakiyo,obat,-6.207925,106.792823,,,3.3,17
+1051,Seuhaenah,jam tangan,-6.350253,106.892963,,,1.0,41
+1052,Salim,warung,-6.207925,106.792824,,,2.6,24
+1053,Taryamah,penjahit,-6.207925,106.792878,,,0.3,40
+1054,Madyusa,pangkas rambut,-6.350253,106.89286,,,4.3,46
+1055,Sutrisno,beras,-6.152019,106.729377,,,3.9,5
+1056,Nimin Bin Salih,penjahit,-6.350253,106.893031,,,0.6,49
+1057,N0Er Hilalia,pulsa,-6.264001,106.86603,,,1.6,36
+1058,Yusuf Firdaus,emas,-6.256442,106.761509,,,0.1,7
+1059,Rudi Salam,warung kopi,-6.350253,106.892901,,,2.1,34
+1060,Ipah,warung tegal,-6.221192,106.838783,,,2.9,13
+1061,Suparno,aksesoris,6.267781,106.869243,,,1.7,8
+1062,Siti Supiah,warung internet,-6.207925,106.792833,,,1.4,31
+1063,M.Nasir,buah dan sayur,-6.264001,106.865985,,,0.1,31
+1064,Susanto,perabotan,-6.221192,106.838783,,,0.3,1
+1065,Lasimin,pangkas rambut,-6.207925,106.792774,,,1.4,48
+1066,Subur Zen,pakaian,-6.207925,106.79284,,,1.2,40
+1067,Moh Sahlan,perabotan,-6.256442,106.761509,,,4.7,36
+1068,Ricky Wirman,makanan,-6.256442,106.761509,,,1.9,33
+1069,Taty Wijayanty,jam tangan,-6.264001,106.866031,,,0.4,36
+1070,Rina Guntari,galon,-6.256442,106.761509,,,2.3,17
+1071,Badiaraja Simatupang,pakaian,-6.264001,106.865994,,,0.1,42
+1072,Taopik Nurohman,plastik,-6.307332,10.864993,,,3.5,40
+1073,Karsiyem,kunci,-6.207925,106.792768,,,2.5,43
+1074,Lindayanti,pangkas rambut,-6.256442,106.761509,,,0.8,37
+1075,Samiyem,koran dan majalah,-6.221192,106.838783,,,4.4,14
+1076,Sudirno,warung kopi,-6.350253,106.89293,,,1.5,6
+1077,Umar Kholet,jamu,-6.350253,106.892981,,,2.5,39
+1078,Ginem,kunci,-6.207925,106.79274,,,4.1,32
+1079,Sudarmaji,warung kopi,-6.256442,106.761509,,,3.9,33
+1080,Rosdiana,kue,-6.350253,106.892903,,,2.4,41
+1081,Mely Kristiyani,listrik,-6.221192,106.838783,,,4.9,45
+1082,Wardi,buah dan sayur,-6.221192,106.838783,,,4.9,36
+1083,Dasmi,jamu,-6.207925,106.792727,,,3.6,42
+1084,Ponirah,warung,-6.350253,106.892884,,,1.8,31
+1085,Yunias Widarti,minuman,-6.207925,106.792904,,,3.8,40
+1086,Sudono,kunci,6.267781,106.869225,,,3.2,8
+1087,Zahara,pulsa,-6.350253,106.893003,,,2.8,36
+1088,Saeful Anwar,obat,-6.350253,106.892966,,,4.0,36
+1089,Taryadi,daging,-6.207925,106.792877,,,1.0,39
+1090,Abdulah Maliki,makanan,-6.350253,106.892754,,,1.4,18
+1091,Saryanto,warung tegal,-6.350253,106.892942,,,3.1,4
+1092,Supomo,warung tegal,-6.221192,106.838783,,,1.6,28
+1093,Suminto,obat,6.267781,106.869216,,,1.3,10
+1094,Bilal Marhaban,jamu,-6.221192,106.838783,,,1.2,44
+1095,Agus Pribadi,sepatu,-6.350253,106.892743,,,4.3,25
+1096,Candra Setiawan,emas,-6.256442,106.761509,,,4.4,17
+1097,Baharudin,sepatu,-6.221192,106.838783,,,4.6,20
+1098,Ashari,jam tangan,-6.256442,106.761509,,,1.7,23
+1099,Sutini,pakaian,-6.256442,106.761509,,,3.2,11
+1100,Junaidi,kue,-6.256442,106.761509,,,1.6,3
+1101,Nurlia,perabotan,-6.207925,106.792803,,,1.7,35
+1102,Rion Andriandi,plastik,-6.152019,106.729386,,,2.5,22
+1103,Riyanto,minuman,-6.264001,106.865984,,,0.7,4
+1104,Saudih,listrik,-6.256442,106.761509,,,4.4,12
+1105,Fitri Itriawati,pakaian,-6.256442,106.761509,,,2.4,10
+1106,Isah Agustina,daging,-6.207925,106.792757,,,2.1,9
+1107,Sumiyati,minuman,-6.256442,106.761509,,,0.0,36
+1108,Ery Damayanty,pulsa,-6.256442,106.761509,,,0.4,36
+1109,Jaisah,beras,-6.256442,106.761509,,,4.3,30
+1110,Muhammad Yusup,kunci,-6.350253,106.892849,,,4.3,34
+1111,Sunarti,perabotan,-6.221192,106.838783,,,3.4,0
+1112,Sri Lestari,warung kopi,-6.350253,106.892917,,,1.0,15
+1113,Priyanto,minuman,-6.350253,106.892881,,,4.4,15
+1114,Rubangi,listrik,-6.256442,106.761509,,,3.1,36
+1115,Sutini,aksesoris,6.267781,106.869219,,,1.0,3
+1116,Karjo,buah dan sayur,-6.221192,106.838783,,,1.5,37
+1117,Metra Juita,penjahit,-6.350253,106.892846,,,3.3,15
+1118,Muhamad Basri,kue,-6.207925,106.792789,,,1.3,35
+1119,Muhammad Rifky Fajar,kunci,-6.256442,106.761509,,,2.8,39
+1120,Dwi Sumartini,galon,-6.256442,106.761509,,,1.6,15
+1121,Malawi,koran dan majalah,-6.207925,106.792779,,,4.4,2
+1122,Sumini,elektronik,6.267781,106.869257,,,3.2,40
+1123,Nurmawilis,aksesoris,-6.350253,106.892866,,,0.5,30
+1124,Dahnil,galon,-6.350253,106.892767,,,4.2,20
+1125,Suprapto,minuman,-6.207925,106.792863,,,1.3,11
+1126,Nurnanengsih,buah dan sayur,-6.264001,106.866051,,,2.2,19
+1127,Yadik Cahyadik,warung internet,-6.350253,106.892998,,,2.5,0
+1128,Masroni,pakaian,-6.221192,106.838783,,,3.5,33
+1129,Eman Rohman,daging,-6.256442,106.761509,,,0.4,38
+1130,Nuryanto,aksesoris,-6.350253,106.892874,,,3.5,12
+1131,R. Rukmah,elektronik,-6.207925,106.79281,,,2.8,33
+1132,Harni,sepatu,-6.350253,106.892811,,,1.1,28
+1133,Zamroni ,pulsa,-6.256442,106.761509,,,2.8,30
+1134,Supardi,koran dan majalah,-6.207925,106.79286,,,2.0,36
+1135,Nofriandi,jamu,-6.207925,106.792801,,,1.6,17
+1136,Denny Taspin,warung,-6.264001,106.865997,,,1.0,9
